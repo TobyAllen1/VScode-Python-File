@@ -1,0 +1,23 @@
+a {
+    background-color: lightblue;
+    color: rgb(25, 187, 87);
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    background-color: salmon;
+}
+.background {
+    background-color: bisque;
+    color: forestgreen;
+}
+body{
+    background-color: yellow;
+}
+p {
+    background-color: orange;
+    color: turquoise;
+}
