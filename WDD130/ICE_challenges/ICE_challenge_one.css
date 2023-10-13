@@ -1,0 +1,24 @@
+
+.hover_change {
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
+.hover_change:hover {
+    color: black;
+}
+.quote_one {
+    color: white;
+    
+}
+.list_item {
+    text-align: left;
+    color: black;
+}
+body {
+    background-color: rgb(252,164,204);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}

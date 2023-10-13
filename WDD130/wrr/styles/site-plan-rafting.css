@@ -58,6 +58,8 @@ header {
   text-align: center;
   color: var(--headline-color-on-color);
   background-color: var(--paragraph-background-color);
+  background-image: url(../Images/background_rafting.jpg);
+  background-size: cover;
 }
 header > h1, header > h2 {
   color: var(--headline-color-on-color);

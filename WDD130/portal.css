@@ -1,3 +1,11 @@
+/* * {
+    border: 1px solid red;
+}
+*/
+#content {
+    
+
+}
 a {
     background-color: lightblue;
     color: rgb(25, 187, 87);
@@ -5,19 +13,47 @@ a {
     margin: 5px;
     text-align: center;
 }
-
+a:hover {
+    background-color: rgb(1, 191, 255);
+    color: rgb(0, 255, 98);
+}
+h1 {
+    font-size: 2em;
+    text-align: center;
+    color: rgb(176, 243, 21)
+}
 nav {
     display: flex;
-    background-color: salmon;
+    background-color: rgb(62, 4, 253);
 }
 .background {
     background-color: bisque;
     color: forestgreen;
 }
 body{
-    background-color: yellow;
+    background-color: rgb(255, 8, 0);
 }
 p {
     background-color: orange;
     color: turquoise;
+    /* text-align; center;*/
+    width: 300px;
+    margin: 0 auto;
+}
+img {
+    width: 60%;
+    height: 100%;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid lightblue;
+    box-sizing: border-box;
+    border-radius: 100%;
+}
+footer p {
+    background-color: antiquewhite;
+    color: darkorange;
+    text-align: center;
+    font-size: 4em;
+    width: 100%;
+    margin-top: 10px;
 }
