@@ -1,3 +1,5 @@
+@import url(https://fonts.google.com/specimen/Shadows+Into+Light?preview.text_type=custom);
+@import url(https://fonts.google.com/specimen/Satisfy?preview.text_type=custom);
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -75,4 +77,10 @@ footer a:hover {
 }
 footer p {
     font-size: 1.2em;
+}
+.font_one {
+    font-family: "Shadows Into Light";
+}
+.font_two {
+    font-family: "Satisfy";
 }
