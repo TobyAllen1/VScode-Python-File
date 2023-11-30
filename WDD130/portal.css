@@ -3,7 +3,7 @@
 }
 */
 #content {
-    
+    padding: 0px;
 
 }
 a {
@@ -56,4 +56,19 @@ footer p {
     font-size: 4em;
     width: 100%;
     margin-top: 10px;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border-radius: 0%;
+}
+html, body {
+    margin: 0;
+    padding: 0;
 }
